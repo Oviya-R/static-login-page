@@ -1,0 +1,59 @@
+img{
+    width: 490px;
+    height: 600px;
+}
+.onbody{
+    position: absolute;
+    top: 20px;
+    left: 95px;
+}
+h1{
+    margin-left: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 7px;
+}
+
+p{
+   text-align: center;
+   margin-left: 70px;
+}
+.form{
+    align-items: center;
+}
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(43, 107, 160);
+    letter-spacing: 3px;
+    text-align: center;
+}
+.btn{
+    margin-left: 250px;
+}
+.fontssize{
+    font-size: 30px;
+    padding-left: 200px;
+}
+#third{
+    padding-left: 7px;
+    
+}
+.para{
+    margin-left: 210px;
+    
+}
+.parapara{
+    padding-right: 70px;
+}
+.imageimg{
+    height: 300px;
+    width: 200px;
+    padding-bottom: 120px;
+   
+}
+.imageimgg{
+    height: 300px;
+    width: 200px;
+    padding-bottom: 120px;
+    margin-left: 120px;
+   
+}
